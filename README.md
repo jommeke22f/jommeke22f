@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rambo
+  - 👋 Hi, I’m @rambo
 - 👀 I’m interested in  computer en bij leren
 - 🌱 I’m currently learning computer
 - 💞️ I’m looking to collaborate on ...
